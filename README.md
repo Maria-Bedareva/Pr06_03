@@ -7,4 +7,5 @@
 
 ## Вывод экрана:
 Задание 1:
+
 ![image](https://github.com/Maria-Bedareva/Pr06_03/assets/82601289/b61796aa-3b8e-42db-811e-7cc41677161b)
