@@ -10,7 +10,7 @@
 
 ![image](https://github.com/Maria-Bedareva/Pr06_03/assets/82601289/382325ad-12c4-4d0f-a17d-37ebc68378cf)
 
-Задание 2:
+Задание 2: - в процессе
 
 Задание 3:
 
